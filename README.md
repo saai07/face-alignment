@@ -30,7 +30,7 @@ Install dependencies using:
 pip install -r requirements.txt
 ```
 
-### requirements.txt Example
+### requirements.txt
 
 ```txt
 torch
