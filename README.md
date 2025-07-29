@@ -30,22 +30,6 @@ Install dependencies using:
 pip install -r requirements.txt
 ```
 
-### requirements.txt
-
-```txt
-torch
-torchvision
-opencv-python
-facenet-pytorch
-numpy
-Pillow
-
-```
-
----
-
-## Usage
-
 ### A. HopeNet-based Pipeline
 
 ```bash
