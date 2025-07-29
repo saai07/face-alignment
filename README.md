@@ -84,6 +84,6 @@ python alignment.py --input path/to/images --output path/to/save --csv results.c
 ## Acknowledgments
 
 - [facenet-pytorch](https://github.com/timesler/facenet-pytorch)
-- [HopeNet: Fine-Grained Head Pose Estimation](https://arxiv.org/abs/1809.04159)
+- HopeNet: Fine-Grained Head Pose Estimation
 - OpenCV, PIL, and PyTorch for image processing
 
