@@ -45,7 +45,7 @@ python face-alig.py --input img-1/ --output results/ --weights hopenet_weights_f
 | `--weights` | (Optional) Path to HopeNet weights for roll refinement |
 |             |                                                        |
 
-### B. Alignment
+### B. alignment.py
 
 ```bash
 python alignment.py --input path/to/images --output path/to/save --csv results.csv
