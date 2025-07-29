@@ -39,7 +39,7 @@ opencv-python
 facenet-pytorch
 numpy
 Pillow
-tqdm
+
 ```
 
 ---
